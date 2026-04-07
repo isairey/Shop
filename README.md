@@ -1,7 +1,7 @@
 # 🍻 Botanero Ventas - Sistema POS para Restaurante
 
 <p align="center">
-  <img width="900" src="https://via.placeholder.com/1200x300.png?text=Botanero+Ventas" alt="Botanero Ventas Banner"/>
+ 
 </p>
 
 <p align="center">
