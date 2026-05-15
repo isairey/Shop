@@ -250,7 +250,7 @@ Usar cualquiera de los siguientes:
 ## 🌐 Abrir aplicación
 
 ```bash
-http://localhost/botanero-ventas
+http://localhost/Shop
 ```
 
 ---
